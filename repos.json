@@ -1,0 +1,44 @@
+{
+    "philipstarkey/qtutils": {
+        "project_file": "data/repositories/philipstarkey/qtutils.json",
+        "project_path": "data/repositories/philipstarkey/qtutils/",
+        "is_fork": false,
+        "github_repo": "https://github.com/philipstarkey/qtutils"
+    },
+    "philipstarkey/autoscrub": {
+        "project_file": "data/repositories/philipstarkey/autoscrub.json",
+        "project_path": "data/repositories/philipstarkey/autoscrub/",
+        "is_fork": false,
+        "github_repo": "https://github.com/philipstarkey/autoscrub"
+    },
+    "PhyNerd/qtutils": {
+        "project_file": "data/repositories/PhyNerd/qtutils.json",
+        "project_path": "data/repositories/PhyNerd/qtutils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/philipstarkey/qtutils-fork--PhyNerd-qtutils--forked-from--philipstarkey-qtutils"
+    },
+    "cbillington/qtutils": {
+        "project_file": "data/repositories/cbillington/qtutils.json",
+        "project_path": "data/repositories/cbillington/qtutils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/philipstarkey/qtutils-fork--cbillington-qtutils--forked-from--philipstarkey-qtutils"
+    },
+    "pstarkey/qtutils-dev": {
+        "project_file": "data/repositories/pstarkey/qtutils-dev.json",
+        "project_path": "data/repositories/pstarkey/qtutils-dev/",
+        "is_fork": true,
+        "github_repo": "https://github.com/philipstarkey/qtutils-fork--pstarkey-qtutils-dev--forked-from--philipstarkey-qtutils"
+    },
+    "pstarkey/qtutils": {
+        "project_file": "data/repositories/pstarkey/qtutils.json",
+        "project_path": "data/repositories/pstarkey/qtutils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/philipstarkey/qtutils-fork--pstarkey-qtutils--forked-from--philipstarkey-qtutils"
+    },
+    "monashspinor/qtutils": {
+        "project_file": "data/repositories/monashspinor/qtutils.json",
+        "project_path": "data/repositories/monashspinor/qtutils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/philipstarkey/qtutils-fork--monashspinor-qtutils--forked-from--philipstarkey-qtutils"
+    }
+}
